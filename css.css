@@ -2,3 +2,10 @@ body {
     background-color: lightblue;
     align-items: center;
 }
+
+img {
+    border-bottom: 4px;
+    border-top: 4px;
+    border-left: 4px;
+    border-right: 4px;
+}
